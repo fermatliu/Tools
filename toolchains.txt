@@ -1,26 +1,3 @@
-arm-none-linux-gnueabi:
-https://sourcery.mentor.com/public/gnu_toolchain/arm-none-linux-gnueabi/arm-2009q1-203-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-
-http://www.codesourcery.com/sgpp/lite/arm/portal/package4571/public/arm-none-linux-gnueabi/arm-2009q1-203-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-
-https://sourcery.mentor.com/GNUToolchain/package10931/public/arm-none-linux-gnueabi/arm-2012.09-64-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-
-https://sourcery.mentor.com/GNUToolchain/package11447/public/arm-none-linux-gnueabi/arm-2013.05-24-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-
-
-
-arm-none-eabi:
-https://sourcery.mentor.com/GNUToolchain/package11442/public/arm-none-eabi/arm-2013.05-23-arm-none-eabi-i686-pc-linux-gnu.tar.bz2
-
-
-
-SHA1SUM:
-11ff996fc71bb84d8665ddaf30c58ada6e298e25  arm-2009q1-203-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2       
-4474db87db0b95a1f3896393d9ffa90752770897  arm-2013.05-23-arm-none-eabi-i686-pc-linux-gnu.tar.bz2
-89b1b862ebfec2b6226ccfb7182573149d7c9111  arm-2013.05-24-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-
-
-MD5SUM:
-1a6e88782f08b09a0e6cef545a1712ec  arm-2009q1-203-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-9d206de1c74f9454e468ddcdd72c9c53  arm-2013.05-23-arm-none-eabi-i686-pc-linux-gnu.tar.bz2
-a59c9535c11fd48692d437df174e4f1c  arm-2013.05-24-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
+http://sourcery.mentor.com/public/gnu_toolchain/
+arm-none-linux-gnueabi
+arm-none-eabi
